@@ -75,3 +75,4 @@ sudo docker container stop $(docker container ls -aq)
 sudo docker system prune -a -f
 
 ```
+### Testing if I can run from NCI
